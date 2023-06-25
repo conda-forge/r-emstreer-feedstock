@@ -1,11 +1,11 @@
-About r-emstreer
-================
+About r-emstreer-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-emstreer-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=emstreeR
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-emstreer-feedstock/blob/main/LICENSE.txt)
 
 Summary: Fast and easily computes an Euclidean Minimum Spanning Tree (EMST) from data, relying on the R API for 'mlpack' - the C++ Machine Learning Library (Curtin et. al., 2013). 'emstreeR' uses the Dual-Tree Boruvka (March, Ram, Gray, 2010, <doi:10.1145/1835804.1835882>), which is theoretically and empirically the fastest algorithm for computing an EMST. This package also provides functions and an S3 method for readily plotting Minimum Spanning Trees (MST) using either the style of the 'base', 'scatterplot3d', or 'ggplot2' libraries.
 
