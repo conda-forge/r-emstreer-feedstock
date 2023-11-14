@@ -9,6 +9,8 @@ Package license: BSD-3-Clause
 
 Summary: Fast and easily computes an Euclidean Minimum Spanning Tree (EMST) from data, relying on the R API for 'mlpack' - the C++ Machine Learning Library (Curtin et. al., 2013). 'emstreeR' uses the Dual-Tree Boruvka (March, Ram, Gray, 2010, <doi:10.1145/1835804.1835882>), which is theoretically and empirically the fastest algorithm for computing an EMST. This package also provides functions and an S3 method for readily plotting Minimum Spanning Trees (MST) using either the style of the 'base', 'scatterplot3d', or 'ggplot2' libraries.
 
+Development: https://github.com/allanvc/emstreeR
+
 Current build status
 ====================
 
@@ -95,7 +97,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
